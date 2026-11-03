@@ -1,0 +1,38 @@
+Respected sir,
+
+I am writing to apply for the Intern position for developing an AI Tool for the Kerala State Electricity Regulatory Commission (KSERC) as advertised in Notice No.PRL/2026-RIET dated January 30, 2026.
+
+I am Prakhar Sharma, currently pursuing B.Tech in Computer Science & Engineering at Rajadhani Institute of Engineering and Technology. I believe I am an excellent fit for this role with:
+
+ Advanced Python programming proficiency (2+ years hands-on experience)
+Extensive Data Science expertise (EDA, ML modeling, dashboard development)
+Proven Agentic AI systems experience using IBM Granite and Watsonx.ai
+Quick learning ability (5+ internships completed in the past year)
+Strong team collaboration and independent work capabilities
+Local availability in Trivandrum for immediate onsite work
+I have attached the following documents for your review:
+
+Cover Letter (detailed application letter)
+Resume/CV (complete academic and professional profile)
+Project Portfolio Links:
+IBM RAG MedBuddy (Agentic AI): github.com/prak05/IBM_RAG_MedBuddy
+Fasal Saarthi (AI Crop Recommendation): View Project
+Smart Irrigation System: View Project
+Complete Portfolio: github.com/prak05
+My experience building autonomous AI agents and data-driven solutions using IBM enterprise technologies, combined with strong Python and Data Science skills, positions me uniquely to contribute effectively to the KSERC AI Tool development project.
+
+I am immediately available for the 2-month internship and would welcome the opportunity to discuss how my skills align with this project's requirements.
+
+Thank you for considering my application. I look forward to hearing from you.
+
+Best regards,
+
+Prakhar Sharma
+B.Tech Computer Science & Engineering
+Rajadhani Institute of Engineering and Technology
+Trivandrum, Kerala
+
+📱 Mobile: +91 7994454919
+📧 Email: prakharsharma05@gmail.com
+🔗 LinkedIn: linkedin.com/in/prak05-btech
+💻 GitHub: github.com/prak05
