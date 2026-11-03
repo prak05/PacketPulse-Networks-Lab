@@ -1,4 +1,4 @@
-# CSE Networks Lab
+# PacketPulse Networks Lab
 
 Curated coursework implementations and supporting documents from Prakhar Sharma's CSE lab work.
 
